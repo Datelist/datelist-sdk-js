@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/Datelist/datelist-sdk-js/issues"
   },
-  "homepage": "https://github.com/Datelist/datelist-sdk-js#readme",
+  "homepage": "https://datelist.io",
   "dependencies": {
     "axios": "^0.21.1"
   }

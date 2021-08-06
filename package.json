@@ -1,6 +1,6 @@
 {
   "name": "datelist-sdk-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "SDK for developing using https://datelist.io API in JS ",
   "main": "index.js",
   "scripts": {

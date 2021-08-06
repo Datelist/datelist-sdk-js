@@ -1,0 +1,28 @@
+{
+  "name": "datelist-sdk-js",
+  "version": "1.0.0",
+  "description": "SDK for developing using https://datelist.io API in JS ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Datelist/datelist-sdk-js.git"
+  },
+  "keywords": [
+    "booking",
+    "reservation",
+    "saas",
+    "productivity"
+  ],
+  "author": "Alexis Clarembeau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Datelist/datelist-sdk-js/issues"
+  },
+  "homepage": "https://github.com/Datelist/datelist-sdk-js#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
